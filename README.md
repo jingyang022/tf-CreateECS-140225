@@ -1,7 +1,8 @@
-## For Lesson 3.4 Class Activity 3: Use Terraform to spin up your ECS Service
+## 15 Feb Coaching Session Class Activity: 
 
-Step 1: Provision ECS cluster
-<br>Step 2: Create capacity providers
+### Create the given infrastructure using Terraform, followed by deploying your sample app using Github Actions to ECS & ECR respectively.
+
+<p>Step 1: Create the ECS cluster
 <br>Step 3: Create ECS task definition
 <br>Step 4: Create the ECS service
 
