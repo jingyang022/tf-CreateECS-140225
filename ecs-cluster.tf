@@ -7,7 +7,7 @@ module "ecs" {
   source  = "terraform-aws-modules/ecs/aws"
   version = "~> 5.9.0"
 
-  cluster_name = "yap-ecs"
+  cluster_name = "yap-cluster"
 
   fargate_capacity_providers = {
     FARGATE = {
