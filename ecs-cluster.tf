@@ -22,6 +22,8 @@ module "ecs" {
       cpu    = 512
       memory = 1024
 
+      #task_role_arn = "" # Add task role arn here
+
       # Container definition(s)
       container_definitions = {
 
